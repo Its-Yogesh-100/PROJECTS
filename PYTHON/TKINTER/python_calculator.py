@@ -31,6 +31,7 @@ def button_add():
      f_num=int(first_num)
      e.delete(0,END)
 
+
 def button_sub():
      first_num=e.get()
      global f_num 
